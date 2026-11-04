@@ -1,3 +1,10 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/Hardware-Arduino_Robotics-blue.svg?style=for-the-badge" alt="Hardware" />
+  <img src="https://img.shields.io/badge/Sensors-Ultrasonic%20%2B%20IR_Line_Follower-green.svg?style=for-the-badge" alt="Sensors" />
+  <img src="https://img.shields.io/badge/Partner-ZF_Friedrichshafen_Hardware-orange.svg?style=for-the-badge" alt="Partner" />
+  <img src="https://img.shields.io/badge/Capabilities-Obstacle_Avoidance%20%7C%20Auto_Park-purple.svg?style=for-the-badge" alt="Capabilities" />
+</p>
+
 
 # Arduino-Based Self-Driving Car Project 🚗
 This project is a small step into the world of autonomous vehicles. Using an Arduino microcontroller, we’ve built a simple car with two motors in the back for movement and two front wheels that steer using a servo motor. The goal of this project is to explore how sensors and coding can make a car respond to its environment, much like real-world autonomous cars.
